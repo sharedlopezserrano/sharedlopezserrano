@@ -14,8 +14,7 @@ I'm Shared Lopez Serrano, a student at Brigham Young University-Idaho interested
 - Skills: API integration, database querying (SQL/pgAdmin), full stack fundamentals spanning frontend (HTML/CSS/JS/TS) and backend (Python, C#)
 
 ## Let's Connect!
-
-- Here is my (https://www.linkedin.com/in/shared-lopez/) profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shared-lopez/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 <div>
